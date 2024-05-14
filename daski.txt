@@ -1,0 +1,2 @@
+monthly=70000
+yearly=700000
